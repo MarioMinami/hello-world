@@ -1,2 +1,4 @@
 # hello-world
-Um repositorio de treino
+
+Hi everyone!
+I'm a professor that like to prepair my classes
